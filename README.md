@@ -44,3 +44,12 @@ Cách đơn giản nhất để startup là ngồi xuống làm một sản ph�
 Trở thành một buidler và kết nối với các builder khác. Sản phẩm của bạn có thể thay đổi thế giới.
 
 [Discord Link](https://discord.gg/ajbcCfMyr4)
+
+# Chia sẻ một dự án
+
+Một mô tả sau đây sẽ rất hứng thú với các builder trên Discord:
+- Ảnh chụp màn hình / ảnh động GIF, video ngắn hoặc link video
+- Mô tả về sản phẩm, quá trình hiện tại và tương lai bạn hướng đến: 5 - 7 dòng.
+- Có thể kèm link mã nguồn nếu là dự án mã nguồn mở, hoặc 1-3 link liên quan trực tiếp đến lĩnh vực sản phẩm đang làm (tin tức, bài nghiên cứu, thống kê, ...)
+
+Giữ thông tin dễ đọc, dễ hiểu và ấn tượng sẽ rất có ích cho mọi người tìm hiểu sản phẩm của bạn và kết nối sâu hơn.
