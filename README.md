@@ -19,7 +19,7 @@ Builders Network bắt đầu từ các sinh viên tại Việt Nam (Uni), tuy n
 Hoạt động diễn ra trên GitHub và Discord chat.
 
 Nhóm chat có các kênh chính:
-- #chung: Thông tin chung về kế hoạch của Builders Net, được kết nối với GitHub. Mọi góp ý và hoạt động chung được diễn ra trên GitHub. Discord dành cho các thành viên thuận tiện với việc chat.
+- #chung: Thông tin chung về kế hoạch của Builders Net, được kết nối với GitHub. Các góp ý và hoạt động chung được diễn ra trên GitHub. Discord dành cho các thành viên thuận tiện hơn với việc chat.
 - #kênh-builder: mỗi trường đại học sẽ đại diện cho một kênh chat, nơi cập nhật các sản phẩm đang được phát triển và thảo luận liên quan. Cập nhật sản phẩm nên là ảnh chụp màn hình, code có thể thực thi (GitHub / GitLab repo links, ...), website.
 - #indie: kênh cho các nhà phát triển độc lập chia sẻ về sản phẩm
 - #trò-chuyện: các thảo luận bên lề
