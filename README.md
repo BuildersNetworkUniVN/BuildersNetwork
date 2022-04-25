@@ -43,7 +43,7 @@ Cách đơn giản nhất để startup là ngồi xuống làm một sản ph�
 
 Trở thành một buidler và kết nối với các builder khác. Sản phẩm của bạn có thể thay đổi thế giới.
 
-[Discord Link](Private)
+[Discord Link](https://discord.gg/ajbcCfMyr4)
 
 # Chia sẻ một dự án
 
